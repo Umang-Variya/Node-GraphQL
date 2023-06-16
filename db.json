@@ -1,0 +1,24 @@
+{
+  "conversation": [
+    {
+      "message": "Hello",
+      "author": "John",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "message": "json-server-2",
+      "author": "typicode-2"
+    },
+    {
+      "id": 3,
+      "message": "json-server-3",
+      "author": "typicode-3"
+    },
+    {
+      "message": "how are you?",
+      "author": "barry",
+      "id": 4
+    }
+  ]
+}
